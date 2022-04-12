@@ -1,0 +1,9 @@
+com\laoliu\docker\mapper\UserMapper.class
+com\laoliu\docker\controller\UserController.class
+com\laoliu\docker\entities\User.class
+com\laoliu\docker\service\UserService.class
+com\laoliu\docker\controller\OrderController.class
+com\laoliu\docker\DockerBootApplication.class
+com\laoliu\docker\config\RedisConfig.class
+com\laoliu\docker\config\SwaggerConfig.class
+com\laoliu\docker\entities\UserDTO.class
